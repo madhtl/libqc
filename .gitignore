@@ -1,0 +1,15 @@
+build/
+cmake-build-debug/
+cmake-build-release/
+.cmake/
+CMakeFiles/
+*.dylib
+*.so
+*.o
+.DS_Store
+.claude/
+__pycache__/
+*.pyc
+*.egg-info/
+.idea/
+*.pdf

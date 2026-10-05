@@ -1,0 +1,10 @@
+method,accuracy,time
+Classical RBF SVM (exact),0.9800,0.0042
+RFF SVM (D=4),0.8100,0.0014
+RFF SVM (D=8),0.8700,0.0011
+RFF SVM (D=16),0.9100,0.0011
+RFF SVM (D=32),0.9000,0.0012
+RFF SVM (D=64),0.8900,0.0014
+Classical Poly-3 SVM,0.9100,0.0007
+QFT_kernel_SVM,0.990,0.093
+RY_kernel_SVM,0.920,0.090
